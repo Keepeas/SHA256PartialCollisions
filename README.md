@@ -9,6 +9,6 @@ Attempts to find SHA256 collisions and keeps the maximum sized partial match.
 Goal: To find highest reasonably attainable partial matches, given the limitations of the running hardware
 
 This program explores the Difficulty of Bitcoin mining and other cryptocurrency mining that use similar algorithms.
-"Difficulty" in Bitcoin mining directly correlates to a minimum legth of matching bytes to a Hashed block
+"Difficulty" in Bitcoin mining directly correlates to a minimum length of matching bytes to a Hashed block
 
 Expected to run indefinitely.
