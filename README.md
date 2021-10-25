@@ -1,7 +1,7 @@
 # SHA256PartialCollisions
 Program to find partial collisions to SHA256 hashes
 
-Requires OpenSHH
+Requires OpenSSH
 
 Attempts to find SHA256 collisions and keeps the maximum sized partial match.
 	-A partial match is difined as any byte length that is sequentially identical, starting with the lowest significant bytes.
